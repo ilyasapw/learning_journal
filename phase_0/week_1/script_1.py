@@ -1,0 +1,1 @@
+print("Ini script baru 1")
