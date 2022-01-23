@@ -1,0 +1,1 @@
+name= "file pkg 1"
